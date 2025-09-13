@@ -1,0 +1,6 @@
+Risk ID,Description,Likelihood,Impact,Owner,Status
+R1,Weak password policy,High,High,IT Security,Open
+R2,Unpatched software,Medium,High,IT Operations,Mitigated
+R3,Phishing attack,High,Medium,Awareness Team,Open
+R4,Data leakage,Medium,High,Compliance,Under Review
+R5,DDoS attack,Low,High,Network Team,Open
