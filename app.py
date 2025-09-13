@@ -10,7 +10,7 @@ st.set_page_config(
 )
 
 # ========== HEADER ==========
-st.sidebar.image("assets/logo.png", use_column_width=True)
+#st.sidebar.image("assets/logo.png", use_column_width=True)
 st.sidebar.title("Navigation")
 page = st.sidebar.radio("Go to", ["Dashboard", "Risk Register", "About"])
 
